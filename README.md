@@ -1,6 +1,6 @@
 # Programování – projekty a úlohy
 
-Repozitář slouží jako místo, kam si postupně ukládáš svoje projekty z hodin programování. Struktura je rozdělená po ročnících:
+Repozitář slouží jako místo, kam si postupně ukládáte svoje projekty z hodin programování. Struktura je rozdělená po ročnících:
 
 ```
 1_rocnik/
@@ -15,8 +15,4 @@ Každý projekt má vlastní složku ve formátu `číslo_nazevProjektu`, např.
 
 ## Jak začít
 
-👉 Návod krok za krokem najdeš v [docs/jak-zacit.md](docs/jak-zacit.md) – jak si z tohoto template vytvořit vlastní repozitář, naklonovat ho a udělat první commit.
-
-## Hodnocení a klasifikace
-
-*(doplň sem nebo odkaž na sekci, případně samostatný soubor, pokud budeš chtít mít hodnocení popsané i tady)*
+👉 Návod krok za krokem najdete v [docs/jak-zacit.md](docs/jak-zacit.md) – jak si z tohoto template vytvořit vlastní repozitář, naklonovat ho a udělat první commit.
