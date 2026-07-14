@@ -15,4 +15,4 @@ Každý projekt má vlastní složku ve formátu `číslo_nazevProjektu`, např.
 
 ## Jak začít
 
-👉 Návod krok za krokem najdete v [docs/jak-zacit.md](docs/jak-zacit.md) – jak si z tohoto template vytvořit vlastní repozitář, naklonovat ho a udělat první commit.
+👉 Návod krok za krokem najdete v [Jak začít](docs/jak-zacit.md) – jak si z tohoto template vytvořit vlastní repozitář, naklonovat ho a udělat první commit.
